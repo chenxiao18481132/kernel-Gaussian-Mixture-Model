@@ -7,5 +7,5 @@ Bouveyron, Charles & Girard, Stéphane & Fauvel, Mathieu. (2015). Kernel discrim
 
 
 
-# Remark: 
+## Remark: 
 Kernel GMM is similar to kernel PCA +GMM. And we can the same best accuracies on toy data. However, the effect of kernel GMM depends on the choice of initialization of P_t.
